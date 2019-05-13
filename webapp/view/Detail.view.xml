@@ -11,7 +11,7 @@
 		busyIndicatorDelay="{detailView>/delay}">
 		<semantic:titleHeading>
 			<Title
-				text="{To_Adresse/Ort}"
+				text="{Adresse}"
 				level="H2"/>
 		</semantic:titleHeading>
 		<semantic:headerContent>
@@ -50,7 +50,7 @@
 					<ColumnListItem>
 						<cells>
 							<ObjectIdentifier
-								title="{Bezeichnung}"
+								title="{}"
 								text="{Id}"/>
 							<ObjectNumber
 />

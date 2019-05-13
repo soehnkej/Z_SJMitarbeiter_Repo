@@ -101,6 +101,20 @@
 						"master",
 						"objectIt"
 					]
+				},
+				{
+					"name": "Master",
+					"pattern": "Master",
+					"target": [
+						"master"
+					]
+				},
+				{
+					"name": "Detail",
+					"pattern": "Detail",
+					"target": [
+						"objectIt"
+					]
 				}
 			],
 			"targets": {
