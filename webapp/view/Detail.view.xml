@@ -11,7 +11,7 @@
 		busyIndicatorDelay="{detailView>/delay}">
 		<semantic:titleHeading>
 			<Title
-				text="{Adresse}"
+				text="{Vorname} {Name}"
 				level="H2"/>
 		</semantic:titleHeading>
 		<semantic:headerContent>
