@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "abap.ABAP-Project.Z_SJMitarbeiter_Repo",
+        "description": "Mitarbeiter",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#Z_SJMitarbeiter_Repo-Display",
+        "navigationComponentName": "abap.ABAP-Project",
+        "intentSemanticObject": "Z_SJMitarbeiter_Repo",
+        "intentAction": "Display",
+        "html5ApplicationName": "zsjmitarbeiterrepo",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "ae0fc1fa-3d69-43f3-8a50-555f515c8983"
+        ],
+        "contentPackages": [
+            "2e744b03-a3dc-40c9-ab42-401b79c6af72"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Mitarbeiter",
+        "subtitle": "Qualifikationsverwaltungstool",
+        "searchKeywords": "Mitarbeiter,Qualifikationsverwaltungstool",
+        "displayIconUrl": "sap-icon://activities",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
